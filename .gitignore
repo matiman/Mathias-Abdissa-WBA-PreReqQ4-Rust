@@ -1,0 +1,4 @@
+/target
+*wallet.json
+.idea
+*DS_
